@@ -46,9 +46,9 @@
    
    ```C:\Users\ayush>cd voice-based-email-for-blind```
    
-   ```C:\Users\sayak>python3 -m pip install -r requirements.txt```
+   ```C:\Users\ayush>python3 -m pip install -r requirements.txt```
    
-   ```C:\Users\sayak>python3 voice_based_email_for_blind.py```
+   ```C:\Users\ayush>python3 voice_based_email_for_blind.py```
  
 </details>
 
