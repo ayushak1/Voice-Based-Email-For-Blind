@@ -55,8 +55,9 @@
 <details><summary>Linux Installation</summary>
 
 #### Installation with Python3
-  ```root@kali:~/git clone https://github.com/ayushak1/voice-based-email-for-blind.git```
-  
+  ```root@kali:~/https://github.com/ayushak1/Voice-Based-Email-Sysstem-For-Blind.git```
+   
+
   ```root@kali:~/cd voice-based-email-for-blind```
   
   ```root@kali:~/pip3 install -r requirements.txt```
