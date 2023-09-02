@@ -11,9 +11,9 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/hacky1997/voice-based-email-for-blind/fork)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
  
-`Created By : Sayak Naskar`
+`Created By : Ayush Karn`
 `License : MIT`
-`Email: sayaknaskar@gmail.com`
+
 
 </p>
 
@@ -29,7 +29,7 @@
 
 ## Modification
  * If you want to save the mp3 files in other directory then just follow the below instruction otherwise don't modify anything. 
- * Just add your desktop directory in code where I have used `path` words in several lines. If you don't know your desktop directory then just open `terminal` or `command prompt` and paste the below code. Like: `C:\Users\sayak\Desktop` (this is my desktop directory).
+ * Just add your desktop directory in code where I have used `path` words in several lines. If you don't know your desktop directory then just open `terminal` or `command prompt` and paste the below code. Like: `C:\Users\ayush\Desktop` (this is my desktop directory).
  
    ```%userprofile%\Desktop```
    
