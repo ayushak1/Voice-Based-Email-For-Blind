@@ -42,9 +42,9 @@
 <details><summary>Windows Installation</summary>
 
 #### Installation with Python3
-   ```C:\Users\ayush>git clone https://github.com/ayushak1/voice-based-email-for-blind.git```
+   ```C:\Users\ayush>https://github.com/ayushak1/Voice-Based-Email-System-For-Blind.git```
    
-   ```C:\Users\ayush>cd voice-based-email-for-blind```
+   ```C:\Users\ayush>cd Voice-Based-Email-System-For-Blind```
    
    ```C:\Users\ayush>python3 -m pip install -r requirements.txt```
    
@@ -55,10 +55,10 @@
 <details><summary>Linux Installation</summary>
 
 #### Installation with Python3
-  ```root@kali:~/https://github.com/ayushak1/Voice-Based-Email-Sysstem-For-Blind.git```
+  ```root@kali:~/https://github.com/ayushak1/Voice-Based-Email-System-For-Blind.git```
    
 
-  ```root@kali:~/cd voice-based-email-for-blind```
+  ```root@kali:~/cd Voice-Based-Email-System-For-Blind```
   
   ```root@kali:~/pip3 install -r requirements.txt```
   
