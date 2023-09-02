@@ -1,4 +1,4 @@
-# Voice based Email For Blind [CLI] :email:	
+# Voice-Based-Email-System-For-Blind :email:	
 
 <p align="center">
  <img src="https://i.ibb.co/zZnR5H3/download.png" border="0" /></p>
