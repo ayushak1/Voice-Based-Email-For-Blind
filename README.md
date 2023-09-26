@@ -9,7 +9,7 @@
 [![PyPI version](https://badge.fury.io/py/codacy-coverage.svg)](https://badge.fury.io/py/codacy-coverage)
 [![Circleci](https://circleci.com/gh/hacky1997/voice-based-email-for-blind.svg?style=svg)](https://circleci.com/gh/hacky1997/voice-based-email-for-blind)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/hacky1997/voice-based-email-for-blind/fork)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
  
 `Created By : Ayush Karn`
 `License : MIT`
